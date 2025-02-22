@@ -1,4 +1,4 @@
-## Hi there 👋
+🍟
 
 <!--
 **D-ske104/D-ske104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
